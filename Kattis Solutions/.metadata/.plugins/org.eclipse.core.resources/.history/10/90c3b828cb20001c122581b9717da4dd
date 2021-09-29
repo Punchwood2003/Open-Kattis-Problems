@@ -1,0 +1,8 @@
+import java.io.BufferedReader;
+
+public class Planina {
+	public static void main(String[] args) {
+		BufferedReader file = newBufferedReader(new InputStreamReader(System.in));
+		
+	}
+}
