@@ -1,10 +1,10 @@
-applyBackground=false
+applyBackground=true
 approved.defs.file.last.changed.time=1649720987000
 configurationInstallLocation=/C\:/Users/punch/eclipse/java-2020-06/eclipse/
 eclipse.preferences.version=1
 iconcolormode=primary
 includeThemingInOomph=false
-last.download.attempt.time=1661015392700
-lastConfiguration=1661015379305
+last.download.attempt.time=1662061510123
+lastConfiguration=1662061498920
 newinstall=true
 workbench.theme=Dark Gray

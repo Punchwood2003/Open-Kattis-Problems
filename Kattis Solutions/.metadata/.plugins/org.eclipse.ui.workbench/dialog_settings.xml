@@ -23,4 +23,8 @@
 			<item value="cons"/>
 		</list>
 	</section>
+	<section name="PreferencesExportWizard">
+	</section>
+	<section name="PreferencesImportWizard">
+	</section>
 </section>
