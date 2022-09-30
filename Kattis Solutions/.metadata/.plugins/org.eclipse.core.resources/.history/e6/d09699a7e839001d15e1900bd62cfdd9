@@ -1,0 +1,14 @@
+import java.io.BufferedReader;
+import java.io.IOException;
+import java.io.PrintWriter;
+
+public class Betting {
+	public static void main(String[] args) throws IOException {
+		new Betting().run();
+	}
+	public void run() throws IOException {
+		BufferedReader file = new BufferedReader(new InptuStreamReader(System.in));
+		PrintWriter out = new PrintWriter(System.out);
+		
+	}
+}

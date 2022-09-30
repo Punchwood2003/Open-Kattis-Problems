@@ -1,0 +1,10 @@
+import java.io.IOException;
+
+public class Autori {
+	public static void main(String[] args) throws IOException {
+		new Autori().run();
+	}
+	public void run() throws IOException {
+		
+	}
+}

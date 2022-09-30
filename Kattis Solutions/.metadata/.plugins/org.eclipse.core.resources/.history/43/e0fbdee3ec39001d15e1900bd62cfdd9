@@ -1,0 +1,17 @@
+import java.io.BufferedReader;
+import java.io.IOException;
+import java.io.InputStreamReader;
+import java.io.PrintWriter;
+
+public class Pyramids {
+	public static void main(String[] agrs) throws IOException {
+		new Pyramids().run();
+	}
+	public void run() throws IOException {
+		BufferedReader file = new BufferedReader(new InputStreamReader(System.in));
+		PrintWriter out = new PrintWriter(System.out);
+		out.println((int) Math.cbrt(Integer.parseInt(file.readLine())));
+		file.close();
+		out.close();
+	}
+}
